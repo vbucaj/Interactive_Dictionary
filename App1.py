@@ -1,6 +1,3 @@
-# with open('data.json','r') as file:
-#     data=file.read()
-# print(data)
 import json
 from difflib import SequenceMatcher as sm
 from difflib import get_close_matches as gcm
